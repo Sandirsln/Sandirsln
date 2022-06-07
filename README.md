@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sandi
 - 👀 I’m interested in Ai and Robotics
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on project
+- gg gimang
 - 📫 How to reach me @sandirsln on ig
 - i love one piece 
 <!---
