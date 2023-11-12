@@ -29,4 +29,4 @@ Welcome to my GitHub portfolio! I am passionate about IoT, data visualization, r
 
 Feel free to explore the repositories and don't hesitate to reach out for collaboration or discussions!
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/Sandirsln)
+[![GitHub followers](https://img.shields.io/github/followers/Sandirsln?label=Follow&style=social)](https://github.com/Sandirsln)
