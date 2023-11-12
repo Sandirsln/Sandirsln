@@ -19,7 +19,7 @@ Welcome to my GitHub portfolio! I am passionate about IoT, data visualization, r
 ## Education
 
 - **Status**: Undergraduate
-- **Degree**: Robotics and Arificial Intelligence
+- **Major**: Robotics and Arificial Intelligence
 - **University**: Airlangga University
 
 
