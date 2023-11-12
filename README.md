@@ -22,10 +22,17 @@ Welcome to my GitHub portfolio! I am passionate about IoT, data visualization, r
 - **Major**: Robotics and Arificial Intelligence
 - **University**: Airlangga University
 
-
 ## Contact
 - LinkedIn: [Muhammad Sandi R. Saepudin](https://www.linkedin.com/in/muhammadsandir/)
 - Email: [muhammad.sandi.r.saepudin-2021@ftmm.unair.ac.id]
+
+<p align="left">
+<a href="[https://github.com/Sandirsln]">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sandirsln&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sandirsln&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 
 Feel free to explore the repositories and don't hesitate to reach out for collaboration or discussions!
 
