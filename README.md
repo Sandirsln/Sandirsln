@@ -1,16 +1,32 @@
-### Hi there 👋
+# Muhammad Sandi R. Saepudin's Portfolio
 
-<!--
-**Sandirsln/Sandirsln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
 
-Here are some ideas to get you started:
+Welcome to my GitHub portfolio! I am passionate about IoT, data visualization, robotics, and artificial intelligence. This repository showcases some of my portofolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills
+
+- Designing electrical circuits using EasyEDA, Proteus, and Fritzing
+- Conducting simulation and implementing designs into circuits
+- Visualizations IoT system with blynk
+- Circuit troubleshooting and repair
+- Intermediate proficiency in programming C/C++ for microcontrollers such as Arduino, ESP32, and NodeMCU
+- Intermediate programming skills in Python for machine learning
+- Fundamental knowledge in creating data visualizations
+- Basic understanding of SQL programming language
+
+## Education
+
+- **Status**: Undergraduate
+- **Degree**: Robotics and Arificial Intelligence
+- **University**: Airlangga University
+
+
+## Contact
+- LinkedIn: [Muhammad Sandi R. Saepudin](https://www.linkedin.com/in/muhammadsandir/)
+- Email: [muhammad.sandi.r.saepudin-2021@ftmm.unair.ac.id]
+
+Feel free to explore the repositories and don't hesitate to reach out for collaboration or discussions!
+
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/Sandirsln)
